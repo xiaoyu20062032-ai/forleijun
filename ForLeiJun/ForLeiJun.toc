@@ -1,0 +1,19 @@
+## Interface: 120105,120100
+## Title: |cffd97757为了雷菌|r
+## Notes: 为了攒钱买雷龙：本周哪几个金币世界任务最值钱（按走法排好序，点一行就导航）、每张图的特别任务解锁到哪（★可做 · ✓本周已完成），以及附近没拍卖师时也能查的物价快照。数据全部在游戏内采集，不联网；不需要任何其他插件（路点用暴雪自带标记）。
+## Author: xiaoyu20062032-ai
+## Version: 1.4.2
+## SavedVariables: ForLeiJunDB
+## X-Category: Data
+
+Core.lua
+Special.lua
+Catalog.lua
+Auction.lua
+Route.lua
+Wpt.lua
+SaRows.lua
+Render.lua
+LiteUI.lua
+Layout.lua
+Pin.lua
